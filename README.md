@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamanesharifiMonfared
 - 👀 I’m interested in Machine Learning and Computer Vision methods.
-- I am a Software Developer in Uk, living with my husbend in Liverpool city.
-- I had finished my Bachelor degree and master was in Computer engineering.
+- I am a Software Developer in Uk, living in Liverpool.
+- My Bachelor's and Master's was in Computer engineering.
 - 🌱 I’m currently learning php, javascripts,my sql,more Deep learning.
 - 💞️ I’m looking to collaborate on machine learning methods and datasets.
 - 📫 How to reach me samane.sharify@gmail.com
