@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Computer Vision methods.
 - I am a Software Developer in Uk, living in Liverpool.
 - My Bachelor's and Master's was in Computer engineering.
-- 🌱 I’m currently coding PHP, Laravel, javascripts,MySQL, React.js and moreover coding for my Deep learning projects.
+- 🌱 I’m currently coding Python, PHP, Laravel, javascript, MySQL, React.js and Mostly every day coding Python for my Deep learning projects.
 - 💞️ I’m looking to collaborate on machine learning methods and datasets.
 - 📫 How to reach me samane.sharify@gmail.com
 - Here is my researchgate: https://www.researchgate.net/profile/Samane-Sharifi-Monfared
