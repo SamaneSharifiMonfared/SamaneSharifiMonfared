@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on machine learning methods and datasets.
 - 📫 How to reach me? samane.sharify@gmail.com
 - Here is my researchgate: https://www.researchgate.net/profile/Samane-Sharifi-Monfared
-- My linkedIn account: https://uk.linkedin.com/in/samane-sharifi-monfared-8819a178
+- My linkedIn account: [https://uk.linkedin.com/in/samane-sharifi-monfared-8819a178](https://www.linkedin.com/in/samane-monfared-8819a178/)
 
 <!---
 SamaneSharifiMonfared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
