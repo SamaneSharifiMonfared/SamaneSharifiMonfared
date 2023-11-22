@@ -6,7 +6,7 @@
 - I am familiar with Azure platfrom.
 - 💞️ I’m looking to collaborate on machine learning methods and datasets if you have interesting data, reachout to me.
 - 📫 How to reach me? samane.sharify@gmail.com
-- Here is my researchgate: https://www.researchgate.net/profile/Samane-Sharifi-Monfared -> I got my first citation recently for my road lane detection  project.
+- Here is my researchgate: https://www.researchgate.net/profile/Samane-Sharifi-Monfared.
 - My linkedIn account: [https://uk.linkedin.com/in/samane-sharifi-monfared-8819a178](https://www.linkedin.com/in/samane-monfared-8819a178/)
 
 <!---
