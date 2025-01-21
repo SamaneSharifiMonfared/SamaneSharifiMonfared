@@ -3,7 +3,7 @@
 - I am a Developer at RoyalHaskoningDHV UK, living in Liverpool.
 - My Bachelor's and Master's was at Computer engineering.
 - 🌱 I’m coding Python, Terraform, SQL, PHP, javascript and Code my methods at image processing and deep learning.
-- I am familiar with Azure platfrom.
+- I am working with Azure platform every day (Pipelines , Azure DevOps, DataOps, Azure Platform, Azure Function Apps, Postgres db, etc).
 - 💞️ I’m looking to collaborate on machine learning methods and datasets if you have interesting data, reachout to me.
 - 📫 How to reach me? samane.sharify@gmail.com
 - Here is my researchgate: https://www.researchgate.net/profile/Samane-Sharifi-Monfared.
