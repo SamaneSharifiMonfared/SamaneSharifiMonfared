@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamanesharifiMonfared
+- 👋 Hi, I’m @SamanesharifiMonfared, a Tech Lead and Software Developer at Haskoning.
 - 👀 I’m interested at Machine Learning and Computer Vision methods of research, DevOps and DataOps Enginering, in a nutshell, I love coding and this is the thing that makes me excited every day to wake up.
 - I am a Developer at RoyalHaskoningDHV UK, living in Liverpool.
 - My Bachelor's and Master's was at Computer engineering.
